@@ -1,0 +1,22 @@
+{
+  "name": "external_sorting",
+  "version": "1.0.0",
+  "description": "Сортировка строковых файлов на Node.js\r Пример запуска: node --max-old-space-size=500 index.js ./test.txt ./temp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sasha148/external_sorting.git"
+  },
+  "author": "Sasha148",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sasha148/external_sorting/issues"
+  },
+  "homepage": "https://github.com/Sasha148/external_sorting#readme",
+  "dependencies": {
+    "n-readlines": "^1.0.1"
+  }
+}
